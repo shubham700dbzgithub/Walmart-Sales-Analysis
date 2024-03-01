@@ -42,9 +42,9 @@ This analysis aims to uncover the different customers segments, purchase trends 
 Approch Used:
 
 1. Data Wrangling:- This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
-   a. Build a database
-   b. Create table and insert the data.
-   c. Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are 
+   a) Build a database
+   b) Create table and insert the data.
+   c) Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are 
       filtered out.
 
 2. Feature Engineering:
